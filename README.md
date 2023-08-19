@@ -4,7 +4,6 @@
 <img align="right" alt="coding-gif" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudracode&label=Profile%20views&color=0e75b6&style=flat" alt="rudracode" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/rudra07360229" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/rudra07360229?logo=twitter&style=for-the-badge" alt="https://twitter.com/rudra07360229" /></a> </p>
 
 - 🔭 I’m currently working on **creating APIS with node,express and making nice frontends.**
 
@@ -20,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/rudra07360229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/rudra07360229" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rudra-c/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rudra-c/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/rudracode/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rudracode/" height="30" width="40" /></a>
+<a href="https://twitter.com/rudra07360229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/rudra07360229" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rudra-c/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rudra-c/" height="30" width="40" /></a>
+<a href="https://leetcode.com/rudracode/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rudracode/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
