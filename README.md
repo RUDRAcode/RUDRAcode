@@ -1,3 +1,4 @@
+[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)]
 <h1 align="center">Hi 👋, I'm RudraPrava Chatterjee</h1>
 <h3 align="center">From India, a dedicated practitioner of backend development (javascript).</h3>
 <img align="right" alt="coding-gif" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
